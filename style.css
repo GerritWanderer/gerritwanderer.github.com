@@ -503,7 +503,7 @@ a{cursor:pointer;}
 	background-repeat:no-repeat;
 	background-color:transparent;}
 
-.skill-language .skill-data{height:13px; width:93px; display:inline-block;}
+.skill-language .skill-data{height:13px; width:77px; display:inline-block;}
 
 .skill0{background-position:0px 0px !important;}
 
@@ -578,8 +578,6 @@ a{cursor:pointer;}
 /* contact */
 
 #contact_form .field.errored {border:1px solid #f2d3ce;}
-
-#contact .item-cont{display:none;}
 
 #contact .map{margin-bottom:29px;}
 
@@ -684,7 +682,7 @@ textarea.form-item{height:71px; resize:none; width:490px;}
 
 	display:block;
 
-    text-decoration: none;
+  text-decoration: none;
 
 	width:250px;
 
