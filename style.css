@@ -295,8 +295,6 @@ a{cursor:pointer;}
 
 	margin-bottom:3px;
 
-	cursor:pointer;
-
 	padding-right:40px;
 
 	z-index:2;}
@@ -410,9 +408,9 @@ a{cursor:pointer;}
 
 #profile .item-cont{padding-top:17px;}
 
-#profile .col500{margin-left:-65%;}
+#profile .col500{margin-left:0%;}
 
-#profile .col260{margin-right:-33%;}
+#profile .col260{margin-right:0%;}
 
 
 
