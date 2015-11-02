@@ -143,7 +143,7 @@ a{cursor:pointer;}
 
 /* containers */
 
-.row-wrap{width:905px; margin:auto; position: relative;}
+.row-wrap{width:1005px; margin:auto; position: relative;}
 
 .row-space{padding-left:43px;}
 
@@ -161,7 +161,7 @@ a{cursor:pointer;}
 
 .col500{width:63%;/* 500/792 */}
 
-.col260{width:33%;/* 260/792 */}
+.col260{width:35%;/* 260/792 */}
 
 
 
@@ -251,7 +251,7 @@ a{cursor:pointer;}
 
 /* header */
 
-#header{padding-top:60px; margin-bottom:24px;}
+#header{padding-top:20px; margin-bottom:20px;}
 
 .head-name{font-size:29px; line-height:35px; font-family:'Patua One', cursive; width:50%; float:left; color:#000;}
 .logo_light .head-name{color:#fff;}
