@@ -64,7 +64,7 @@ body {
 
 	background:#f0f2f2;
 
-	padding-bottom:120px;
+	padding-bottom:620px;
 
 	font-family:"Open Sans";
 
@@ -143,7 +143,7 @@ a{cursor:pointer;}
 
 /* containers */
 
-.row-wrap{width:1005px; margin:auto; position: relative;}
+.row-wrap{margin:auto; position: relative;}
 
 .row-space{padding-left:43px;}
 

@@ -32,19 +32,18 @@
 @media (max-width: 767px) {
 	/* General
 	 ============================================== */
-	 .row-wrap{width:420px; margin:auto;}
+	 .row-wrap{margin:auto;}
 	 .row-space{margin:0px;}
 	 .item-cont{padding:22px 20px 64px 20px;}
-	 .col500, .col260{width:100%; float:none;}	 	 #settings{display:none;}
+	 #settings{display:none;}
 	 /* Header
 	 ============================================== */
 	 .head-name{font-size:27px; line-height:27px; letter-spacing:-1px; width:auto; margin-top:4px;}
 	 /* Profile
 	 ============================================== */
-	 .profile-img{width:104px; height:119px; overflow:hidden; margin-right:12px; margin-top:5px;}
+	 .profile-img{width:104px; height:119px; overflow:hidden; margin-right:12px; margin-top:-5px;}
 	 .profile-img img{width:104px;}
-	 .profile-info{width:220px; letter-spacing:0px;}
-	 .profile-data{margin-top:33px;}
+	 .profile-info{width:70%; letter-spacing:0px;}
 	 .profile-data li{margin-bottom:12px;}
 	 /* Resume
 	 ============================================== */
